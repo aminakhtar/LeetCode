@@ -1,0 +1,15 @@
+C:\Dev\leetcode\MyApp1\MyApp1\bin\Debug\net6.0\MyApp1.exe
+C:\Dev\leetcode\MyApp1\MyApp1\bin\Debug\net6.0\MyApp1.deps.json
+C:\Dev\leetcode\MyApp1\MyApp1\bin\Debug\net6.0\MyApp1.runtimeconfig.json
+C:\Dev\leetcode\MyApp1\MyApp1\bin\Debug\net6.0\MyApp1.dll
+C:\Dev\leetcode\MyApp1\MyApp1\bin\Debug\net6.0\MyApp1.pdb
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.csproj.AssemblyReference.cache
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.AssemblyInfoInputs.cache
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.AssemblyInfo.cs
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.csproj.CoreCompileInputs.cache
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.dll
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\refint\MyApp1.dll
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.pdb
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\MyApp1.genruntimeconfig.cache
+C:\Dev\leetcode\MyApp1\MyApp1\obj\Debug\net6.0\ref\MyApp1.dll
